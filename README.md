@@ -42,4 +42,13 @@ This project is under the MIT license. see the file [LICENSE](.github/LICENSE.md
 
 ---
 
+Acesse o repositório oficial da Mission Origin:
+<br>
+Access the official Mission Origin repository:
+
+https://github.com/rocketseat-education/nlw-06-origin
+
+---
+
 https://www.rocketseat.com.br/ 
+
