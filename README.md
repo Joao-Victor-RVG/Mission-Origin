@@ -25,13 +25,17 @@ Utilitários / utilities
 ## 💻 Projeto / Project
 
 OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
+
 <br>
+
 OriginSix is an institutional page in One Page format, responsive, to be used in different types of micro, small and medium companies. Contains the following sections: Header, Navigation, Home, About, Services, Testimonials, Contact and Footer
 
 ## 📝 Licença / License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
 <br>
+
 This project is under the MIT license. see the file [LICENSE](.github/LICENSE.md) for more details.
 
 ---
